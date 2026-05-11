@@ -2,9 +2,13 @@
 <html lang="pt-br">
 <head>
  <meta charset-"UTF-8">
-<title>INDEX.HTML</title>
-<link rel-"stylesheet" href-styles/style.css">
+ <title>INDEX.HTML</title>
+ <link rel-"stylesheet" href-styles/style.css">
+</head>
 
-<head>  
-</body> 
+<body> 
+<p>INDEX.HTML</p>
+<P>texto</p>
+</body>
+
 </html>
